@@ -22,3 +22,6 @@ To facilitate quick access to specific contacts, the app offers a search and fil
 
 ## Responsive Design: 
 The Contact App is responsive and compatible with various devices, including desktops, laptops, tablets, and smartphones. Users can manage their contacts seamlessly on the go.
+
+![Screenshot (390)](https://github.com/satyamkumarjha9966/Contact-App---DB-FireBase/assets/123254088/52c561bc-3a8c-4317-93f9-43c916488496)
+
